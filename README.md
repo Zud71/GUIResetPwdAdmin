@@ -1,5 +1,5 @@
 # GUIResetPwdAdmin
-[Download here](https://github.com/Zud71/GUIResetPwdAdmin/releases)
+[Скачать ->>](https://github.com/Zud71/GUIResetPwdAdmin/releases)
 
 ## Программа по удаленному сбросу паролей локальных администраторов на рабочих станциях с графическим интерфейсом.
 Версия не прошла боевые испытания, только тренировку на кошках. Требуются тестировщики.
